@@ -18,4 +18,8 @@ public class Wift {
    *  
    */
 
+  //        #readFile() -> char content
+  //        #tokenize() -> list
+  //        #parse()    -> symbol table
+
 }
