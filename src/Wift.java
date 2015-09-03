@@ -20,7 +20,7 @@ public class Wift {
 
   public static void main(String...args){}
 
-  public static String readFile()
+  public static String readFile(String filePath)
 
   //        #readFile() -> char content
   //        #tokenize() -> list
