@@ -23,7 +23,7 @@ public class Wift {
 
   public static void main(String...args){}
 
-  public static String readFile(String filePath){
+  public static String readFile(String filePath) throws FileNotFoundException{
       File f = new File(filePath);
       Scanner input = new Scanner(f);
   }
