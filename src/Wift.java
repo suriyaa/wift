@@ -20,6 +20,8 @@ public class Wift {
 
   public static void main(String...args){}
 
+  public static String readFile()
+
   //        #readFile() -> char content
   //        #tokenize() -> list
   //        #parse()    -> symbol table
