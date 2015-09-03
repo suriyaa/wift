@@ -18,7 +18,7 @@ public class Wift {
    *  
    */
 
-  public static void main(){}
+  public static void main(String...args){}
 
   //        #readFile() -> char content
   //        #tokenize() -> list
