@@ -24,7 +24,7 @@ public class Wift {
 
   public static String readFile(String filePath){
       File f = new File(filePath);
-      Scanner input = new Scanner();
+      Scanner input = new Scanner(f);
   }
 
   //        #readFile() -> char content
