@@ -18,6 +18,8 @@ public class Wift {
    *  
    */
 
+  public static void main(){}
+
   //        #readFile() -> char content
   //        #tokenize() -> list
   //        #parse()    -> symbol table
