@@ -9,6 +9,13 @@ public class Wift {
    *            - ARITHMETIC []
    *            - VARIABLES []
    *  
+   *        FUNCTIONS:
+   *            - PRINT []
+   *            - INPUT []
+   *            - IF []
+   *            - FOR []
+   *  
+   *  
    */
 
 }
