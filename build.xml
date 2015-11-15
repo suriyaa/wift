@@ -1,0 +1,9 @@
+<project name="wift" default="all">
+
+  <property name="src" location="src"/>
+  <property name="test" location="test"/>
+
+  <!-- Get the version string out of the POM -->
+  <xmlproperty file="pom.xml" prefix="pom"/>
+
+</project>
