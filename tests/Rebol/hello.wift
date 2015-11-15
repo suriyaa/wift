@@ -1,0 +1,13 @@
+Red [
+	Title:   "Wift minimal test script"
+	Author:  "Suriyaa Kudo"
+	File: 	 %hello.red
+	Tabs:	 4
+	Rights:  "Copyright (C) 2015-present Suriyaa Kudo. All rights reserved."
+	License: {
+		Distributed under the GNU License.
+	}
+]
+
+print "Hello, world!"
+print "Hallo Welt!"
