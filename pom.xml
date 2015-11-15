@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <name>wift</name>
+  <version>1.0.0</version>
+
+  <url>https://github.com/wiftlang</url>
+  <description>The Wift Programming Language.</description>
+
+  <developers>
+    <developer>
+      <name>Suriyaa Kudo</name>
+      <email>SuriyaaKudoIsc@users.noreply.github.com</email>
+    </developer>
+  </developers>
+
+  <licenses>
+    <license>
+      <name>GNU License</name>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+</project>
